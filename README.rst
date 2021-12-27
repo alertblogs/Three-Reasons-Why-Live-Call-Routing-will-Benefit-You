@@ -1,40 +1,38 @@
-AlertOps Expert Guidance
+Three Reasons Why Live Call Routing will Benefit You
 ========
+AlertOps boasts the title of the best-valued alert management platform. And now, with the addition of our new Live Call Routing feature, this title has become truer than ever!
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Live Call Routing allows your organization to route any incoming calls or voicemails to the correct on-call team member based on on-call schedules and customized or automatic escalation rules.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Here are the top three reasons your organization will benefit from AlertOps’ Live Call Routing:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+1) It’s cost-efficient.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+AlertOps’ Live Call Routing feature ensures that your organization optimizes its functioning costs. By setting escalation rules for call routing, ensure that your customers always reach the correct on-call team member every time. Diminish the lost revenue that occurs when your organization misses or loses calls.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+2) It increases productivity.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Next, increase your conversion rates by providing the best possible customer service to your live inbound callers. Callers will be able to choose the service or team member they need to reach through a call menu. The Live Call Routing feature offers your callers the ability to speak to a live on-call team member 24/7. Offer your service around the clock and increase your revenue. Additionally, when a team in your organization is in need of support or information from another, use Live Call Routing and communicate with ease.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+3) It’s modern and advanced.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Now, even small businesses have the capability to create a customer service line to the grandiosity of large enterprises. And, enterprises have an additional collaboration method to easily and quickly keep all teams within one another’s reach.
 
-1 Red Canary 2021 Threat Detection Report
+____________________________________________________________________________
+
+Are you an existing AlertOps client?
+
+Contact our sales team today at sales@alertops.com and add Live Call Routing to your Premium or Enterprise package.
+
+New to AlertOps?
+
+AlertOps has many features to make your incident management life easier: multi-modal communication, team management with on-call scheduling, customizable messages, routing rules, customizable workflows and escalations, and much more. Learn more about our features here.
+
+At AlertOps, we offer more than fifty of the leading third party integrations for monitoring, service desk, and hosting and chat tools. Learn more about our integrations here.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/live-inbound-call-routing-2/
 
 Read more:
 ====
